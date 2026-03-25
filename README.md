@@ -1,4 +1,4 @@
-# Nmap Android ARM64
+# Nmap 7.98 Android ARM64
 
 ## Uso
 ./run-nmap.sh 127.0.0.1
